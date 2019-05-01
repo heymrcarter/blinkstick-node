@@ -21,17 +21,17 @@
     "node": ">=0.8.x"
   },
   "licenses": [
-   {
-       "type": "MIT",
-       "url": "https://raw.githubusercontent.com/arvydas/blinkstick-node/master/LICENSE"
-   }
+    {
+      "type": "MIT",
+      "url": "https://raw.githubusercontent.com/heymrcarter/blinkstick-node/master/LICENSE"
+    }
   ],
   "main": "./blinkstick",
   "repository": {
     "type": "git",
-    "url": "https://github.com/arvydas/blinkstick-node"
+    "url": "https://github.com/heymrcarter/blinkstick-node"
   },
   "dependencies": {
-    "usb": "1.1.1"
+    "usb": "^1.5.0"
   }
 }
